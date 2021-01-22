@@ -14,6 +14,5 @@ I'm self learner, hard working and easy going. I also hold a bachelor degree in 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=9cf)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Photoshop&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&logoColor=white&color=ff00bf)
