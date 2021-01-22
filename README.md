@@ -6,8 +6,7 @@ I enjoy creating digital products that either solve problems or entertain people
 
 I'm self learner, hard working and easy going. I also holds a bachelor degree in administration.
 
-## Checkout my LinkedIn to findout more about me.
-[<img align="left" alt="Hasmat Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hasmat-a-a2631011b/)
+## Checkout my LinkedIn to findout more about me. [<img align="" alt="Hasmat Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hasmat-a-a2631011b/)
 
 ## Languages and tools
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=red)
