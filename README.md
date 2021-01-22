@@ -2,7 +2,7 @@
 
 ## My name is Hasmat Ali and I'm a Designer and Front-End Developer.
 
-I enjoy creating digital products that either solve problems or entertain people. I'm contstantly looking for new challenges and learning new and different technologies on the way.
+I enjoy creating digital products that either solve problems or entertain people. I'm constantly looking for new challenges and learning new and different technologies on the way.
 
 I'm self learner, hard working and easy going. I also hold a bachelor degree in administration.
 
