@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Hasmat Ali and I'm a Data Scientist and Front-End Developer.
+## My name is Hasmat Ali and I'm a Web Developer | Digital Designer | Researcher.
 
 I enjoy creating digital products that either solve problems or entertain people. I'm constantly looking for new challenges and learning new and different technologies on the way.
 
