@@ -2,7 +2,7 @@
 
 I enjoy creating digital products that either solve problems or entertain people. I'm constantly looking for new challenges and learning new and different technologies on the way.
 
-I'm self learner, hard working and easy going. I also hold a bachelor degree in administration.
+I'm self learner, hard working and easy going.
 
 ## Checkout my LinkedIn to findout more about me. [<img align="" alt="Hasmat Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hasmat-a-a2631011b/)
 
