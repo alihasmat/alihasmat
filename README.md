@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I am Software Engineer lerning to become a fullstack developer.
 I enjoy creating digital products that either solve problems or entertain people. I'm constantly looking for new challenges and learning new and different technologies on the way.
 
 I'm self learner, hard working and easy going.
