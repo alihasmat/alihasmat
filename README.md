@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-### I am Software Engineer lerning to become a fullstack developer.
+### Frontend Developer Here.
 I enjoy creating digital products that either solve problems or entertain people. I'm constantly looking for new challenges and learning new and different technologies on the way.
 
 I'm self learner, hard working and easy going.
 
-## Checkout my LinkedIn to findout more about me. [<img align="" alt="Hasmat Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hasmat-a-a2631011b/)
+## Checkout my LinkedIn to findout more about me. [<img align="" alt="Hasmat Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hasmat-ali/)
 
 ## Languages and tools
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
